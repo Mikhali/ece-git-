@@ -1,2 +1,2 @@
-conflit
+conflit +1
 1234
